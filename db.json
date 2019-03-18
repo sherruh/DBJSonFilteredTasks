@@ -1,6 +1,10 @@
 {
-  "TaskList":[{"inWork":false,"done":false,"name":"ChD_70000","message":"CUNSR 30%","problemType":"EMERGENCY","technology":"GSM","region":"CHUY"},
-              {"inWork":false,"done":false,"name":"ChD_70001","message":"CUNSR 50%","problemType":"EMERGENCY","technology":"GSM","region":"CHUY"}],
+  "TaskList":[{"inWork":false,"done":false,"name":"ChD_77777","message":"CUNSR 30%",
+               "problemType":"EMERGENCY","technology":"GSM","region":"CHUY"},
+              {"inWork":false,"done":false,"name":"ChD_88888","message":"CUNSR 50%",
+               "problemType":"EMERGENCY","technology":"UMTS","region":"CHUY"},
+              {"inWork":false,"done":false,"name":"ChD_99999","message":"CUNSR 70%",
+               "problemType":"EMERGENCY","technology":"LTE","region":"CHUY"}],
   "profile": {
     "name": "typicode"
   }
